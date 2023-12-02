@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: st-static-export
+Version: 0.2.0
+Summary: Provides static HTML export for dataframes and altair charts for Streamlit apps.
+Home-page: https://github.com/sqlinsights/st-static-export
+Author: Carlos D. Serrano
+Author-email: sqlinsights@gmail.com
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+
 # Streamlit Static Export
 
 This library will allow Titles, Paragraphs, Dataframes and Altair Charts to be exported into a static HTML file. 
@@ -76,6 +91,3 @@ with open('sample_bytes.html', 'wb') as b:
 ### Output
 
 ![sample](images/output.gif "Output")
-
-# Next features
-- Support for plotly charts

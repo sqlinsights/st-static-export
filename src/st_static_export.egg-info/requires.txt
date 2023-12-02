@@ -1,0 +1,9 @@
+pandas>=1.5
+beautifulsoup4>=4.12
+altair>=4.2
+typing_extensions>=4.8.0
+
+[dev]
+pre-commit
+streamlit
+vega-datasets

@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+src/st_static_export/__init__.py
+src/st_static_export.egg-info/PKG-INFO
+src/st_static_export.egg-info/SOURCES.txt
+src/st_static_export.egg-info/dependency_links.txt
+src/st_static_export.egg-info/requires.txt
+src/st_static_export.egg-info/top_level.txt
